@@ -2,8 +2,7 @@
 
 [中文教程请点击此处](./README_CN.md)
 
-RANDOM SELECT an item by weight from a list which contains selections and weights.
-This is a Python script that randomly selects an item from a text file that contains a list of items and their corresponding weights.
+This is a Python script that RANDOM SELECT an item from a text file that contains a list of items and their corresponding weights.
 
 ## Usage
 
