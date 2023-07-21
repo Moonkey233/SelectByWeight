@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # Author: Moonkey_
+# Usage: A Python script that RANDOM SELECT an item from a text file that contains a list of items and their corresponding weights.
 # Date: 2023/7/21
 # Github: https://github.com/Moonkey233/SelectByWeight
 # Copyright (c) 2023, Moonkey_
