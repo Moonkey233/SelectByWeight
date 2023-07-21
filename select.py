@@ -46,7 +46,7 @@ def main():
         return
     
     num = 0
-    print(f"\nAll Selections: \n")
+    print(f"All Selections: \n")
     try:
         for i in playlist:
             for key in i:
