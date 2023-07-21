@@ -2,7 +2,7 @@
 
 [中文教程请点击此处](./README_CN.md)
 
-This is a Python script that RANDOM SELECT an item from a text file that contains a list of items and their corresponding weights.
+A Python script that RANDOM SELECT an item from a text file that contains a list of items and their corresponding weights.
 
 ## Usage
 
