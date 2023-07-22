@@ -56,7 +56,7 @@ def main():
     except Exception as e:
         print("Calculate Weight Error", e)
 
-    print("Total Weight:", weight)
+    print(f"Total Weight: 100% Range: [0, {weight})")
     print()
     flag = True
     rand = random.randint(0, weight-1)
