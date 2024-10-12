@@ -71,7 +71,7 @@ Play [10]
 Sleep [20]
 
 Study [0]
-Can handle weight missing mistakes [10]
+Can handle weight missing mistakes [10
 Can handle NaN mistakes [1a]
 Can handle return line and space
 # Can comment temporarily [100]
